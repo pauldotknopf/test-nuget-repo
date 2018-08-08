@@ -1,0 +1,12 @@
+{
+  "username": "",
+  "useremail": "",
+  "sources": [
+    {
+      "name": "myLocalFeed",
+      "type": "local",
+      "path": "/Users/pknopf/git/test-nuget-repo/myFeed",
+      "baseURI": "https://example.com/feed/"
+    }
+  ]
+}
