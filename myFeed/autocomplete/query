@@ -1,1 +1,1 @@
-{"@context":{"@vocab":"http://schema.nuget.org/schema#","totalHits":{"@type":"http://www.w3.org/2001/XMLSchema#integer"}},"totalHits":0,"index":"sleet-static","data":[]}
+{"index":"sleet-static","totalHits":1,"data":["Qml.Net"],"@context":{"@vocab":"http://schema.nuget.org/schema#","totalHits":{"@type":"http://www.w3.org/2001/XMLSchema#integer"}}}
