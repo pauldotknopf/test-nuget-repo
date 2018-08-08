@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Qml.Net</id>
+    <version>0.3.0-alpha.20</version>
+    <authors>Paul Knopf</authors>
+    <owners>Paul Knopf</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/pauldotknopf/Qml.Net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/pauldotknopf/Qml.Net</projectUrl>
+    <description>A cross-platform Qml/.NET integration for Mono/.NET/.NET Core</description>
+    <copyright>2018</copyright>
+    <repository url="https://github.com/pauldotknopf/Qml.Net" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="AdvancedDLSupport" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netstandard2.0/AdvancedDLSupport.ExternalAnnotations.xml" buildAction="Content" />
+      <files include="any/netstandard2.0/StrictEmit.ExternalAnnotations.xml" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+</package>
