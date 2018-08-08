@@ -13,6 +13,12 @@
       "type": "local",
       "path": "/Users/pknopf/git/test-nuget-repo/myFeed2",
       "baseURI": "https://raw.githubusercontent.com/pauldotknopf/test-nuget-repo/master/myFeed2/"
+    },
+    {
+      "name": "myLocalFeed3",
+      "type": "local",
+      "path": "/Users/pknopf/git/test-nuget-repo/myFeed3",
+      "baseURI": "https://raw.githubusercontent.com/pauldotknopf/test-nuget-repo/master/myFeed3/"
     }
   ]
 }
