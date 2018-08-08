@@ -7,6 +7,12 @@
       "type": "local",
       "path": "/Users/pknopf/git/test-nuget-repo/myFeed",
       "baseURI": "https://raw.githubusercontent.com/pauldotknopf/test-nuget-repo/master/myFeed/"
+    },
+    {
+      "name": "myLocalFeed2",
+      "type": "local",
+      "path": "/Users/pknopf/git/test-nuget-repo/myFeed2",
+      "baseURI": "https://raw.githubusercontent.com/pauldotknopf/test-nuget-repo/master/myFeed2/"
     }
   ]
 }
